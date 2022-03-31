@@ -64,7 +64,13 @@ We may update this Privacy Policy from time to time to reflect changes to our pr
 ### Contact Us
 
 For more information of if you have questions contact us at:
-* hello@1f8.dev
-* Statlas, LLC
-  Shinjuku-ku, Nishi-Shinjuku 4-29-4-315
-  Tokyo, Japan 160-0023
+
+Email: hello@1f8.dev
+
+1F8, LLC
+
+4-29-4-315 Nishishinjyuku Shinjyuku-ku
+
+Tokyo, Japan 160-0023
+
+Last Updated: March 31, 2022

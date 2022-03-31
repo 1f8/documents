@@ -98,22 +98,6 @@ When you use this Application, you may find links to other websites, platforms, 
 
 The Company is not associated with or makes claim to be affiliated with any Shopify programs, Google programs, Yahoo programs, Yahoo Japan programs, Instagram programs, Facebook programs, Youtube programs, or Shopify themselves, Google themselves, Yahoo themselves, Yahoo Japan themselves, Instagram themselves, Facebook themselves, or Youtube themselves. It is your responsibility and yours alone to follow and comply with Instagram, Facebook, and Youtube rules and guidelines.
 
-## GEOGRAPHIC RESTRICTIONS
-
-The owner of the Application is based in Japan. We provide this Application for use only by persons located in Japan. We make no claims that the Application or any of its content is accessible or appropriate outside of Japan. Access to the Application may not be legal by certain persons or in certain countries. If you access the Application from outside Japan, you do so on your own initiative and are responsible for compliance with local laws.
-
-## DISCLAIMER OF WARRANTIES
-
-You understand that we cannot and do not guarantee or warrant that files available for downloading from the Internet or the Application will be free of viruses or other destructive code. You are responsible for implementing sufficient procedures to satisfy your particular requirements for anti-virus protection and accuracy of data input and output. No data transmission over the Internet can be guaranteed to be 100% safe. Thus, we cannot warrant that your information will be absolutely secure.
-
-The Company has a variety of safeguards – technical, administrative, and physical – in place to help protect against unauthorized access to, use, or disclosure of user information. WE WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY A DISTRIBUTED DENIAL-OF-SERVICE ATTACK, VIRUSES OR OTHER TECHNOLOGICALLY HARMFUL MATERIAL THAT MAY INFECT YOUR COMPUTER EQUIPMENT, COMPUTER PROGRAMS, DATA OR OTHER PROPRIETARY MATERIAL DUE TO YOUR USE OF THE APPLICATION OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE APPLICATION OR TO YOUR DOWNLOADING OF ANY MATERIAL POSTED ON IT, OR ON ANY APPLICATION LINKED TO IT.
-
-YOUR USE OF THE APPLICATION, ITS CONTENT AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE APPLICATION IS AT YOUR OWN RISK. THE APPLICATION, ITS CONTENT AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE APPLICATION ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. NEITHER THE COMPANY NOR ANY PERSON ASSOCIATED WITH THE COMPANY MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY OR AVAILABILITY OF THE APPLICATION. WITHOUT LIMITING THE FOREGOING, NEITHER THE COMPANY NOR ANYONE ASSOCIATED WITH THE COMPANY REPRESENTS OR WARRANTS THAT THE APPLICATION, ITS CONTENT OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE APPLICATION WILL BE ACCURATE, RELIABLE, ERROR-FREE OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT OUR APPLICATION OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS OR THAT THE APPLICATION OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE APPLICATION WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS.
-
-THE COMPANY HEREBY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT AND FITNESS FOR PARTICULAR PURPOSE.
-
-THE FOREGOING DOES NOT AFFECT ANY WARRANTIES WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
-
 ## LIMITATION ON LIABILITY
 
 IN NO EVENT WILL THE COMPANY, ITS AFFILIATES OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, THE APPLICATION, ANY WEBSITES LINKED TO IT, ANY CONTENT ON THE Application OR SUCH OTHER WEBSITES OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE APPLICATION OR SUCH OTHER WEBSITES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT OR OTHERWISE, EVEN IF FORESEEABLE.
@@ -128,33 +112,11 @@ You agree to defend, indemnify and hold harmless the Company, its affiliates, li
 
 If at any time we feel you have violated these Terms, then we shall immediately terminate your use of our Application and any related communications as we deem appropriate. It is within our sole discretion to allow any user’s access of our Application, and we may revoke this access at any time without notice.
 
-## SEVERABILITY
-
-If any part of these Terms is deemed unlawful or unenforceable, all other provisions contained herein will remain in full force and effect.
-
 ## GOVERNING LAW AND JURISDICTION
 
 All matters relating to the Application, these Terms, and any dispute or claim arising therefrom or related thereto (in each case, including non-contractual disputes or claims), shall be governed by and construed in accordance with the laws in Japan.
 
 Any legal suit, action or proceeding arising out of, or related to, these Terms or the Application shall be instituted exclusively in the  courts of Japan. You waive any and all objections to the exercise of jurisdiction over you by such courts and to venue in such courts.
-
-## ARBITRATION
-
-If you have any issue or dispute with the Company, you agree to first contact us at and attempt to resolve the dispute with us informally. If we are not been able to resolve the dispute with you informally, both parties agree to resolve any claim, dispute, or controversy (excluding claims for injunctive or other equitable relief) arising out of or in connection with or relating to these Terms by binding arbitration by The Japan Commercial Arbitration Association (“JCAA”) under the Commercial Arbitration Rules and Supplementary Procedures for Consumer Related Disputes then in effect for the JCAA, except as provided herein.
-
-Unless both parties agree otherwise, the arbitration will be conducted in Tokyo, Japan. Each party will be responsible for paying their respective JCAA filing, administrative and arbitrator fees in accordance with JCAA rules. The award rendered by the arbitrator shall include costs of arbitration, reasonable attorneys’ fees, and reasonable costs for expert and other witnesses, and any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction. Nothing in this section shall prevent either party from seeking injunctive or other equitable relief from the courts for matters related to data security, intellectual property or unauthorized access to the Service.
-
-ALL CLAIMS MUST BE BROUGHT IN THE PARTIES’ INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING, AND, UNLESS WE AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON'S CLAIMS. YOU AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND THE COMPANY ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.
-
-## LIMITATION ON TIME TO FILE CLAIMS
-
-ANY CAUSE OF ACTION OR CLAIM YOU MAY HAVE ARISING OUT OF OR RELATING TO THESE TERMS OR THE APPLICATION MUST BE COMMENCED WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES, OTHERWISE, SUCH CAUSE OF ACTION OR CLAIM IS PERMANENTLY BARRED.
-
-## WAIVER AND SEVERABILITY
-
-No waiver of by the Company of any term or condition set forth in these Terms shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of the Company to assert a right or provision under these Terms shall not constitute a waiver of such right or provision.
-
-If any provision of these Terms is held by a court or other tribunal of competent jurisdiction to be invalid, illegal or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of the Terms will continue in full force and effect.
 
 ## ENTIRE AGREEMENT
 
@@ -164,7 +126,7 @@ The Terms and our Privacy Policy constitute the sole and entire agreement betwee
 
 We may update these Terms from time to time to reflect changes to our practices or for other operational, legal, or regulatory reasons. If we change these Terms, we will post the updated Terms here, and those changes will go into effect on the “Last Updated” date shown below. We will take reasonable steps to notify you if these Terms materially change. We will assume your continued use of the Application following the posting of any revised Terms to mean you accept and agree to any changes.
 
-## CONTACT US
+## Contact Us
 
 For more information of if you have questions contact us at:
 
@@ -176,4 +138,4 @@ Email: hello@1f8.dev
 
 Tokyo, Japan 160-0023
 
-Last Updated: March 29, 2022
+Last Updated: March 31, 2022

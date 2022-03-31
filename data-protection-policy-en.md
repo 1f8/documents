@@ -3,7 +3,7 @@ We abide by this data protection policy for customer consent and data rights to 
 
 1. NETWORK PROTECTION
 
-Statlas.io is completely cloud-based and direct access is limited to only core engineers. All data requests are only available to authenticated users and each user's data is partitioned to prevent data leakage.
+1F8 applications are completely cloud-based and direct access is limited to only core engineers. All data requests are only available to authenticated users and each user's data is partitioned to prevent data leakage.
 
 We will implement network protection controls (e.g. VPC subnet/Security Groups, Virtual Networks, network firewalls) to deny access to unauthorized IP addresses.
 
@@ -53,7 +53,7 @@ We audit our data policies and security best practices regularly, as well as fol
 
 Communication will come through our email address or community forums. We will never ask for your password, API key, or any personal information through email. We will also never send attachments with an executable program. If you get an email from us that is suspicious, please contact us immediately as it may affect other users.
 
-CONTACT US
+### Contact Us
 
 For more information of if you have questions contact us at:
 
@@ -65,4 +65,4 @@ Email: hello@1f8.dev
 
 Tokyo, Japan 160-0023
 
-Last Updated: March 24, 2022
+Last Updated: March 31, 2022
